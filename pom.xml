@@ -27,7 +27,7 @@
 			<plugin>
 				<groupId>org.mule.tools.maven</groupId>
 				<artifactId>mule-maven-plugin</artifactId>
-				<version>${mule.maven.plugin.version}</version>
+				<version>3.5.2</version>
 				<extensions>true</extensions>
 				<configuration>
 					<cloudHubDeployment>
@@ -38,8 +38,8 @@
 						<password>Javid@26</password>
 						<!-- Environment Parameter -->
 						<environment>Sandbox</environment>
-						<applicationName>jenkins-demo</applicationName>
-						<businessGroup>Aspire Systems</businessGroup>
+						<applicationName>jenkins-demo-cicd</applicationName>
+						<businessGroup>AspireSystems</businessGroup>
 						<workerType>Micro</workerType>
 						<workers>1</workers>
 						<objectStoreV2>true</objectStoreV2>
@@ -89,6 +89,10 @@
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
+		</pluginRepository>
+		<pluginRepository>
+			<id>mule-public</id>
+			<url>https://repository.mulesoft.org/nexus/content/repositories/releases</url>
 		</pluginRepository>
 	</pluginRepositories>
 
