@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DTOApplication id="Application-1660258480-1493174910" ApplicationNumber="AP-00006354" Version="3.10">
+	<QuestionReplies id="QuestionReplies-1553101003-1178947042">
+        <QuestionReply id="QuestionReply-859195405-1832325773" Name="1000" Value="NO" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-1656171536-493197768" Name="1000A" VisibleInd="No"/>
+    </QuestionReplies>
+	<DTORisk id="Risk-156119133-1700981150">
+		<DTOCoverage>
+			<DTOSteps>
+                <DTOStep Order="1" Name="Final Premium" Factor="501" Value="501"/>
+            </DTOSteps>
+		</DTOCoverage>
+	</DTORisk>
+	<DTORisk id="Risk-156119133-1700981151">
+		<DTOCoverage>
+			<DTOSteps>
+                <DTOStep Order="1" Name="Final Premium" Factor="502" Value="502"/>
+            </DTOSteps>
+		</DTOCoverage>
+	</DTORisk>
+	<DTOCoverage>
+		<DTOSteps>
+            <DTOStep Order="1" Name="Final Premium" Factor="503" Value="503"/>
+        </DTOSteps>
+	</DTOCoverage>
+	<DTOCoverage>
+		<DTOSteps>
+            <DTOStep Order="1" Name="Final Premium" Factor="504" Value="504"/>
+        </DTOSteps>
+	</DTOCoverage>
+	<DTOCoverage>
+		<DTOSteps>
+            <DTOStep Order="1" Name="Final Premium" Factor="505" Value="505"/>
+        </DTOSteps>
+	</DTOCoverage>
+</DTOApplication>	
