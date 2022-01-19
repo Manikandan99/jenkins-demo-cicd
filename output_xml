@@ -7,30 +7,30 @@
 	<DTORisk id="Risk-156119133-1700981150">
 		<DTOCoverage>
 			<DTOSteps>
-                <DTOStep Order="1" Name="Final Premium" Factor="501" Value="501"/>
-            </DTOSteps>
+                		<DTOStep Order="1" Name="Final Premium" Factor="501" Value="501"/>
+            		</DTOSteps>
 		</DTOCoverage>
 	</DTORisk>
 	<DTORisk id="Risk-156119133-1700981151">
 		<DTOCoverage>
 			<DTOSteps>
-                <DTOStep Order="1" Name="Final Premium" Factor="502" Value="502"/>
-            </DTOSteps>
+                		<DTOStep Order="1" Name="Final Premium" Factor="502" Value="502"/>
+            		</DTOSteps>
 		</DTOCoverage>
 	</DTORisk>
 	<DTOCoverage>
 		<DTOSteps>
-            <DTOStep Order="1" Name="Final Premium" Factor="503" Value="503"/>
-        </DTOSteps>
+           	 	<DTOStep Order="1" Name="Final Premium" Factor="503" Value="503"/>
+        	</DTOSteps>
 	</DTOCoverage>
 	<DTOCoverage>
 		<DTOSteps>
-            <DTOStep Order="1" Name="Final Premium" Factor="504" Value="504"/>
-        </DTOSteps>
+          		  <DTOStep Order="1" Name="Final Premium" Factor="504" Value="504"/>
+       		</DTOSteps>
 	</DTOCoverage>
 	<DTOCoverage>
 		<DTOSteps>
-            <DTOStep Order="1" Name="Final Premium" Factor="505" Value="505"/>
-        </DTOSteps>
+          		  <DTOStep Order="1" Name="Final Premium" Factor="505" Value="505"/>
+       		</DTOSteps>
 	</DTOCoverage>
 </DTOApplication>	
